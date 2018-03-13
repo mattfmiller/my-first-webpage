@@ -1,0 +1,24 @@
+h1 {
+  color: DarkCyan;
+}
+
+h2 {
+  color: Salmon;
+}
+
+p {
+  font-family: fantasy;
+  font-style: oblique;
+}
+
+img {
+  width: 250px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+ul {
+  font-size: 30px;
+  font-family: fantasy;
+  line-height: 40px;
+}
